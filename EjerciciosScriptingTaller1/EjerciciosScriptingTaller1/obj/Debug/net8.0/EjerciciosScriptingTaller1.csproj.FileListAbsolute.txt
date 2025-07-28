@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\bin\Debug\net8.0\EjerciciosScriptingTaller1.exe
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\bin\Debug\net8.0\EjerciciosScriptingTaller1.deps.json
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\bin\Debug\net8.0\EjerciciosScriptingTaller1.runtimeconfig.json
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\bin\Debug\net8.0\EjerciciosScriptingTaller1.dll
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\bin\Debug\net8.0\EjerciciosScriptingTaller1.pdb
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\obj\Debug\net8.0\EjerciciosScriptingTaller1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\obj\Debug\net8.0\EjerciciosScriptingTaller1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\obj\Debug\net8.0\EjerciciosScriptingTaller1.AssemblyInfo.cs
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\obj\Debug\net8.0\EjerciciosScriptingTaller1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\obj\Debug\net8.0\EjerciciosScriptingTaller1.dll
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\obj\Debug\net8.0\refint\EjerciciosScriptingTaller1.dll
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\obj\Debug\net8.0\EjerciciosScriptingTaller1.pdb
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\obj\Debug\net8.0\EjerciciosScriptingTaller1.genruntimeconfig.cache
+C:\Users\User\source\repos\EjerciciosScriptingTaller1\EjerciciosScriptingTaller1\obj\Debug\net8.0\ref\EjerciciosScriptingTaller1.dll

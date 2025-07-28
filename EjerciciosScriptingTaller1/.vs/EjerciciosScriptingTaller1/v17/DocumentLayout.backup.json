@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\EjerciciosScriptingTaller1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8933960-3BF0-4F61-BAE2-50C0F04863D4}|EjerciciosScriptingTaller1\\EjerciciosScriptingTaller1.csproj|c:\\users\\user\\source\\repos\\ejerciciosscriptingtaller1\\ejerciciosscriptingtaller1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8933960-3BF0-4F61-BAE2-50C0F04863D4}|EjerciciosScriptingTaller1\\EjerciciosScriptingTaller1.csproj|solutionrelative:ejerciciosscriptingtaller1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EjerciciosScriptingTaller1\\EjerciciosScriptingTaller1\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosScriptingTaller1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EjerciciosScriptingTaller1\\EjerciciosScriptingTaller1\\Program.cs",
+              "RelativeToolTip": "EjerciciosScriptingTaller1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:01:19.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
